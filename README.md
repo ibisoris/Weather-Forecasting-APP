@@ -13,7 +13,7 @@ The following is a list of technologies used for this projects
 * JavaScript
 * Weather API
 ***
-## Project Interface
+## APP HOME Interface
 ![image](https://github.com/ibisoris/Weather-Forecasting-APP/assets/108595895/ca5f9fa1-7e4e-448f-915c-c81045b998c3)
 
 ## Project Links
@@ -23,3 +23,6 @@ The following is a list of technologies used for this projects
 2. [GitHub Link](https://github.com/ibisoris/Weather-Forecasting-APP)
 
 3. [Google Slide for Project](https://docs.google.com/presentation/d/1VjinY4U3PYaRzrRj-6wu1T8AqF9gKOCH4iXeFIy8cnk/edit?usp=sharing)
+
+## Author
+Ibinabo Orifama
