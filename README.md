@@ -12,3 +12,11 @@ The following is a list of technologies used for this projects
 * CSS
 * JavaScript
 * Weather API
+***
+## Project Links
+
+1. [Video Demo for Project](https://youtu.be/pesipefgPZ8)
+
+2. [GitHub Link](https://github.com/ibisoris/Weather-Forecasting-APP)
+
+3. [Google Slide for Project](https://docs.google.com/presentation/d/1VjinY4U3PYaRzrRj-6wu1T8AqF9gKOCH4iXeFIy8cnk/edit?usp=sharing)
