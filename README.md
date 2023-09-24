@@ -18,7 +18,7 @@ The following is a list of technologies used for this projects
 
 ## Project Links
 
-1. [Video Demo for Project](https://youtu.be/pesipefgPZ8)
+1. [Video Demo for Project](https://youtu.be/PesipefgPZ8)
 
 2. [GitHub Link](https://github.com/ibisoris/Weather-Forecasting-APP)
 
